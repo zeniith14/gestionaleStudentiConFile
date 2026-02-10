@@ -1,0 +1,7 @@
+| Matricola | Cognome  | Nome      |
+| --------- | -------- | --------- |
+| 80061     | Carbone  | Giuseppe  |
+| 24672     | Russo    | Federica  |
+| 73334     | Baino    | Nicola    |
+| 09770     | Buonciro | Raimondo  |
+| 48828     | Bottone  | Francesco |
